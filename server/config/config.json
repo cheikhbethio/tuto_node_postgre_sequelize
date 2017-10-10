@@ -1,0 +1,17 @@
+{
+  "development": {
+    "username": "waiyaki",
+    "password": "kountou",
+    "database": "todos-test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "waiyaki",
+    "password": "kountou",
+    "database": "todos-test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
+
